@@ -1,0 +1,1 @@
+../../../bird_away_2/bird_away_2.uproject  /Game/Maps/01testing -Messaging -SessionId=882589BC4F490D2E0FE6849135E54D56 -SessionOwner="Cameron" -SessionName="Launch On Device" -iterative
