@@ -255,9 +255,9 @@ ADDED from Z:\app\src\main\AndroidManifest.xml:20:5-99
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:20:16-75
 meta-data#com.epicgames.ue4.GameActivity.ProjectName
-ADDED from Z:\app\src\main\AndroidManifest.xml:21:5-104
+ADDED from Z:\app\src\main\AndroidManifest.xml:21:5-113
 	android:value
-		ADDED from Z:\app\src\main\AndroidManifest.xml:21:74-101
+		ADDED from Z:\app\src\main\AndroidManifest.xml:21:74-110
 	android:name
 		ADDED from Z:\app\src\main\AndroidManifest.xml:21:16-73
 meta-data#com.epicgames.ue4.GameActivity.AppType

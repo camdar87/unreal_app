@@ -18,7 +18,7 @@
     <meta-data android:name="com.epicgames.ue4.GameActivity.bPackageDataInsideApk" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bVerifyOBBOnStartUp" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bShouldHideUI" android:value="true" />
-    <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectName" android:value="bird_away_2" />
+    <meta-data android:name="com.epicgames.ue4.GameActivity.ProjectName" android:value="Endless_Runner_alpha" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.AppType" android:value="" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles" android:value="false" />
     <meta-data android:name="com.epicgames.ue4.GameActivity.BuildConfiguration" android:value="Development" />

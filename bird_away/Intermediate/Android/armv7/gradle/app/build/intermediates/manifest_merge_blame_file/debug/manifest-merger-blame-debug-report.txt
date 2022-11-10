@@ -173,11 +173,11 @@
 90            android:value="true" />
 90-->Z:\app\src\main\AndroidManifest.xml:20:76-96
 91        <meta-data
-91-->Z:\app\src\main\AndroidManifest.xml:21:5-104
+91-->Z:\app\src\main\AndroidManifest.xml:21:5-113
 92            android:name="com.epicgames.ue4.GameActivity.ProjectName"
 92-->Z:\app\src\main\AndroidManifest.xml:21:16-73
-93            android:value="bird_away_2" />
-93-->Z:\app\src\main\AndroidManifest.xml:21:74-101
+93            android:value="Endless_Runner_alpha" />
+93-->Z:\app\src\main\AndroidManifest.xml:21:74-110
 94        <meta-data
 94-->Z:\app\src\main\AndroidManifest.xml:22:5-89
 95            android:name="com.epicgames.ue4.GameActivity.AppType"

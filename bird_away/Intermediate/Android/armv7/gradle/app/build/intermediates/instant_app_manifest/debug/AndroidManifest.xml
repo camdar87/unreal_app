@@ -91,7 +91,7 @@
             android:value="true" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.ProjectName"
-            android:value="bird_away_2" />
+            android:value="Endless_Runner_alpha" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.AppType"
             android:value="" />

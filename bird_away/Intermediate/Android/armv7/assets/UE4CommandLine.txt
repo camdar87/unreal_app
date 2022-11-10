@@ -1,1 +1,1 @@
-../../../bird_away_2/bird_away_2.uproject  /Game/Maps/01testing -Messaging -SessionId=882589BC4F490D2E0FE6849135E54D56 -SessionOwner="Cameron" -SessionName="Launch On Device" -iterative
+../../../Endless_Runner_alpha/Endless_Runner_alpha.uproject  /Game/Maps/01testing -Messaging -SessionId=F0D2813C4B012A46E6397A9EC50D8645 -SessionOwner="Cameron" -SessionName="Launch On Device" -iterative
