@@ -1,1 +1,1 @@
-../../../Endless_Runner_alpha/Endless_Runner_alpha.uproject  /Game/Maps/01testing -Messaging -SessionId=F0D2813C4B012A46E6397A9EC50D8645 -SessionOwner="Cameron" -SessionName="Launch On Device" -iterative
+../../../Endless_Runner_alpha/Endless_Runner_alpha.uproject 
