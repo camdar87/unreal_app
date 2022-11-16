@@ -1852,3 +1852,387 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.16-00.57.53:293][330]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** ARCHIVE COMMAND COMPLETED **********
 [2022.11.16-00.57.53:293][330]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): BUILD SUCCESSFUL
 [2022.11.16-00.57.53:293][330]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AutomationTool exiting with ExitCode=0 (Success)
+[2022.11.16-01.04.24:027][209]LogSlate: Window 'Output Log' being destroyed
+[2022.11.16-01.04.24:035][209]LogSlate: Window 'Output Log' being destroyed
+[2022.11.16-01.04.45:816][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.16-01.04.50:184][998]LogMainFrame: Project does not require temp target
+[2022.11.16-01.04.50:194][998]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game.target
+[2022.11.16-01.04.50:273][  0]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2022.11.16-01.04.50:430][ 18]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=C:/Users/Cameron/Documents/mobile/unreal_app/bird_away/Endless_Runner_alpha.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=C:/Users/Cameron/Documents/mobile/unreal_app/bird_away/Endless_Runner_alpha.uproject -cook -stage -archive -archivedirectory=C:/Users/Cameron/Documents/mobile/unreal_app -package -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2022.11.16-01.04.50:485][ 24]UATHelper: Packaging (Windows (64-bit)): WARNING: Error while enumerating Visual Studio toolchains
+[2022.11.16-01.04.50:485][ 24]UATHelper: Packaging (Windows (64-bit)): WARNING: Assuming no compilation capability.
+[2022.11.16-01.04.50:485][ 24]PackagingResults: Warning: Error while enumerating Visual Studio toolchains
+[2022.11.16-01.04.50:485][ 24]PackagingResults: Warning: Assuming no compilation capability.
+[2022.11.16-01.04.51:655][164]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Endless_Runner_alpha.uproject
+[2022.11.16-01.04.52:195][197]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.11.16-01.04.52:203][198]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Endless_Runner_alpha.uproject
+[2022.11.16-01.04.52:203][198]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is C:\Program Files\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.11.16-14.04.52.txt
+[2022.11.16-01.04.52:212][199]UATHelper: Packaging (Windows (64-bit)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Endless_Runner_alpha.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="C:\Program Files\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.11.16-14.04.52.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.11.16-01.04.52:944][282]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.11.16-01.04.52:945][282]UATHelper: Packaging (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.11.16-01.04.52:945][282]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: Endless_Runner_alpha
+[2022.11.16-01.04.55:748][568]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.11.16-01.04.56:669][678]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8524668928 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.16-01.04.57:193][740]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.16-01.04.57:227][744]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.16-01.04.57:259][748]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.16-01.04.57:260][748]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.16-01.04.57:276][750]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.16-01.04.57:285][751]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.16-01.04.57:294][752]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.16-01.04.57:301][753]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.16-01.04.57:318][755]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.16-01.04.57:327][756]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.16-01.04.57:327][756]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.16-01.04.57:376][762]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.16-01.04.57:376][762]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.16-01.04.57:393][764]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.16-01.04.57:394][764]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.16-01.04.57:402][765]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.16-01.04.57:410][766]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.16-01.04.57:427][768]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.16-01.04.57:427][768]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.16-01.04.57:444][770]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.16-01.04.57:451][771]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.16-01.04.57:461][772]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.16-01.04.57:461][772]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.16-01.04.57:461][772]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.11.16-01.04.57:476][774]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.16-01.04.57:534][781]UATHelper: Packaging (Windows (64-bit)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.11.16-01.04.58:517][898]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.16-01.04.59:798][979]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.16-01.05.00:413][981]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Cameron/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.11.16-01.05.00:413][981]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.16-01.05.00:413][981]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/Cameron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.27ms. RandomReadSpeed=73.56MBs, RandomWriteSpeed=109.94MBs. Assigned SpeedClass 'Local'
+[2022.11.16-01.05.02:676][988]UATHelper: Packaging (Windows (64-bit)):   LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.16-01.05.02:676][988]UATHelper: Packaging (Windows (64-bit)):   LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.16-01.05.02:676][988]UATHelper: Packaging (Windows (64-bit)):   LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.16-01.05.03:021][989]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.16-01.05.03:021][989]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.16-01.05.04:039][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:039][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:039][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:039][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:039][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:040][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:040][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:040][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:040][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:040][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:040][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2022.11.16-01.05.04:040][992]UATHelper: Packaging (Windows (64-bit)):   LogClass: Display: 11 Uninitialized script struct members found including 0 object properties
+[2022.11.16-01.05.04:040][992]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.16-01.05.04:041][992]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.11.16-01.05.04:041][992]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.11.16-01.05.04:718][994]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.11.16-01.05.04:718][994]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2022.11.16-01.05.04:719][994]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.11.16-01.05.04:719][994]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.013 seconds for platforms WindowsNoEditor
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 191 (19100.00%)
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/Cameron/Documents/mobile/unreal_app/bird_away/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2022.11.16-01.05.06:055][998]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.11.16-01.05.06:812][999]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 105 Total 105
+[2022.11.16-01.05.06:812][999]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=213, VirtualMemory=576MiB
+[2022.11.16-01.05.06:812][999]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 150 Packages Remain 148 Total 298
+[2022.11.16-01.05.08:166][  3]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 4D39D28F0E50C8B6680DCE187340E73F28EA4030), compiling.
+[2022.11.16-01.05.08:166][  3]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 72 shader compile jobs with 'Low' priority
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 8EEA0FAE5BFFE54BA80C16C13796E18A19F35358), compiling.
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 72 shader compile jobs with 'Low' priority
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shadermap for Tile in PCD3D_SM5, Default, SM5 (DDC key hash: FED56281FE2AF56713AB6AD8FBBA9EEDC8A12C13), compiling.
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shadermap for tilefloor in PCD3D_SM5, Default, SM5 (DDC key hash: 670F83259AC405895EA60F5EF3AE51E1DE4BDA37), compiling.
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shadermap for pipe_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 197DCADE8DCE96961A3D70C749A45A8ED6BA5D69), compiling.
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shadermap for coin in PCD3D_SM5, Default, SM5 (DDC key hash: 6FC1AB33FCDF0AD70EEF603AD033A827B8D2CDAA), compiling.
+[2022.11.16-01.05.08:650][  4]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Low' priority
+[2022.11.16-01.05.09:058][  5]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 289 Packages Remain 32 Total 321
+[2022.11.16-01.05.09:058][  5]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shadermap for CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 60D83A1533012B08B50FF8F4B17405EB27B8468B), compiling.
+[2022.11.16-01.05.09:058][  5]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Submitted 21 shader compile jobs with 'Low' priority
+[2022.11.16-01.05.10:789][ 91]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 315 Packages Remain 7 Total 322
+[2022.11.16-01.05.16:912][230]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.16:912][230]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.16:912][230]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 315 Packages Remain 7 Total 322
+[2022.11.16-01.05.22:801][387]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.22:801][387]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.22:801][387]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 315 Packages Remain 7 Total 322
+[2022.11.16-01.05.25:780][460]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.25:780][460]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 316 Packages Remain 6 Total 322
+[2022.11.16-01.05.27:444][494]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.27:444][494]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 317 Packages Remain 5 Total 322
+[2022.11.16-01.05.32:763][590]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.32:763][590]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.32:763][590]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 318 Packages Remain 4 Total 322
+[2022.11.16-01.05.34:535][619]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.34:536][619]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 319 Packages Remain 3 Total 322
+[2022.11.16-01.05.36:748][661]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=324, VirtualMemory=661MiB
+[2022.11.16-01.05.38:172][686]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.38:172][686]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 320 Packages Remain 2 Total 322
+[2022.11.16-01.05.42:794][769]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.42:794][769]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.42:794][769]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 320 Packages Remain 2 Total 322
+[2022.11.16-01.05.48:827][876]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.48:827][876]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.48:828][876]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.48:828][876]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.48:828][876]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.48:828][876]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 320 Packages Remain 2 Total 322
+[2022.11.16-01.05.51:730][930]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.51:731][930]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 321 Packages Remain 1 Total 322
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 322 Packages Remain 0 Total 322
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=324, VirtualMemory=661MiB
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.11.16-01.05.55:150][ 13]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.11.16-01.05.55:182][ 14]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.11.16-01.05.55:197][ 15]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 336, size is 118.92kb
+[2022.11.16-01.05.55:197][ 15]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Endless_Runner_alpha' (PCD3D_SM5) Stats:
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 62, Unique Shadermaps: 54 (87.10%)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1991, Unique Shaders: 1620 (81.37%)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 3.87mb, Unique Shaders Size: 3.31mb (85.36%)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 9
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 493
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:     20, 15, 9, 9, 9, 8, 7, 6, 6, 6
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/Cameron/Documents/mobile/unreal_app/bird_away/Saved/Shaders/PCD3D_SM5/ShaderDebug-Endless_Runner_alpha-PCD3D_SM5/Dump.txt'
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 20.339696s total time 51.338940
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 812 MiB Peak Used physical 859 MiB
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.013s (1)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.002s (1)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.375s (1)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 20.252s (853284)
+[2022.11.16-01.05.55:258][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.050s (1709914)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 0.531s (322)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 19.181s (818733)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.172s (51)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.394s (313)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.394s (271)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.515s (322)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.504s (322)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.005s (322)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.002s (319)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.005s (322)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.006s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.009s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.098s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.015s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.004s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.019s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.021s (1)
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2022.11.16-01.05.55:259][ 18]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.000662s to verify the EDL loading graph.
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000028
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=140.263888
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.180811
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=225
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=1.424000
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=225
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=72
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=21
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=228
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.314763
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=87
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=211
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=203
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=322
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.466586
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.101557
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.015781
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000144
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.001249
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.001489
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000183
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.077967
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.132027
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.022262
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=135.725712
+[2022.11.16-01.05.55:286][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=62.700953
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=11.350993
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=51.346528
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=2.351434
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000376
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=20.585097
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.530685
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.514762
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.566621
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=11.417276
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.185249
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.560441
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.060578
+[2022.11.16-01.05.55:287][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       780
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       787
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.991105
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.087675
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.903431
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.008895
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         7
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         7
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.41                   0.41             7          6.06
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.39                   0.00             0         54.98
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.05                   0.05             0          5.80
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.04                   0.04             0         12.30
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.02                   0.02             0          6.31
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SkeletalMesh                                    0.02                   0.02             0          2.18
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: AnimSequence                                    0.01                   0.01             0          0.15
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.01                   0.01             0          0.07
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         51.21
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   
+[2022.11.16-01.05.55:288][ 19]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  51.38 seconds
+[2022.11.16-01.05.55:582][ 40]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.16-01.05.55:582][ 40]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Total job queries 213, among them cache hits 0 (0.00%)
+[2022.11.16-01.05.55:582][ 40]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Tracking 213 distinct input hashes that result in 178 distinct outputs (83.57%)
+[2022.11.16-01.05.55:582][ 40]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: RAM used: 0.85 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.21%
+[2022.11.16-01.05.55:582][ 40]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: ================================================
+[2022.11.16-01.05.56:599][ 44]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.11.16-01.05.56:934][ 45]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.11.16-01.05.58:606][ 50]UATHelper: Packaging (Windows (64-bit)): Took 66.1420003s to run UE4Editor-Cmd.exe, ExitCode=0
+[2022.11.16-01.05.58:607][ 50]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2022.11.16-01.05.58:607][ 50]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2022.11.16-01.05.58:607][ 50]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2022.11.16-01.05.58:944][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditor.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseLightmass.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Category.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Editor.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Engine.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Config\DefaultEditor.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Excluding config file C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Config\DefaultEditorPerProjectUserSettings.ini
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Saved\StagedBuilds\WindowsNoEditor
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2022.11.16-01.05.58:945][ 51]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)): Output from: C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Endless_Runner_alpha.uproject C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Saved\StagedBuilds\WindowsNoEditor\Endless_Runner_alpha\Content\Paks\Endless_Runner_alpha-WindowsNoEditor.pak -create="C:\Users\Cameron\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\PakList_Endless_Runner_alpha-WindowsNoEditor.txt" -cryptokeys=C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Saved\Cooked\WindowsNoEditor\Endless_Runner_alpha\Metadata\Crypto.json -secondaryOrder=C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows -compressionformats=Oodle -compressmethod=Kraken -compresslevel=3  -multiprocess -abslog="C:\Users\Cameron\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UnrealPak-Endless_Runner_alpha-WindowsNoEditor-2022.11.16-14.05.58.txt" -compressionblocksize=256KB
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   OodleDataCompression: Display: Oodle v2.9.0 initializing with method=Kraken, level=3=Fast
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\Cameron\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\PakList_Endless_Runner_alpha-WindowsNoEditor.txt
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1790 entries to add to pak file.
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 1790 files in 0.01s.
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Saved\StagedBuilds\WindowsNoEditor\Endless_Runner_alpha\Content\Paks\Endless_Runner_alpha-WindowsNoEditor.pak.
+[2022.11.16-01.06.02:304][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/Cameron/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 0 [Oodle] : 553 files, 152130311 -> 36791159 bytes
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 1 [Zlib] : 62 files, 3360334 -> 1131268 bytes
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: CompressionFormat 2 [None] : 1175 files, 9858255 -> 9858255 bytes
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 1790 files, 48673687 bytes total, time 1.83s.
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 28858 bytes
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 46855 bytes
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 60953 bytes
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Compression summary: 24.39% of original size. Compressed Size 37922427 bytes, Original Size 155490645 bytes.
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 1.884498 seconds
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2022.11.16-01.06.02:305][ 61]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: C:\Users\Cameron\Documents\mobile\unreal_app\bird_away\Saved\StagedBuilds\WindowsNoEditor
+[2022.11.16-01.06.06:325][ 73]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2022.11.16-01.06.06:325][ 73]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2022.11.16-01.06.06:325][ 73]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2022.11.16-01.06.06:325][ 73]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2022.11.16-01.06.06:325][ 73]UATHelper: Packaging (Windows (64-bit)): Archiving to C:/Users/Cameron/Documents/mobile/unreal_app
+[2022.11.16-01.06.12:685][ 92]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2022.11.16-01.06.12:685][ 92]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2022.11.16-01.06.12:685][ 92]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
