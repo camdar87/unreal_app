@@ -2783,3 +2783,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.16-01.17.25:932][613]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** ARCHIVE COMMAND COMPLETED **********
 [2022.11.16-01.17.25:932][613]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): BUILD SUCCESSFUL
 [2022.11.16-01.17.26:272][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AutomationTool exiting with ExitCode=0 (Success)
+[2022.11.16-01.23.10:477][103]LogSlate: Window 'Output Log' being destroyed
+[2022.11.16-01.23.10:483][103]LogSlate: Window 'Output Log' being destroyed
+[2022.11.16-01.23.13:459][379]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.16-01.24.50:800][991]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.16-01.25.12:601][216]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.16-01.25.12:608][216]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.16-01.25.13:703][336]LogSlate: Took 0.000990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.16-01.25.13:734][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01testing" FILE="../../../../../../Users/Cameron/Documents/mobile/unreal_app/bird_away/Content/Maps/01testing.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.16-01.25.13:747][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.16-01.25.13:819][336]LogSavePackage: Moving '../../../../../../Users/Cameron/Documents/mobile/unreal_app/bird_away/Saved/01testing604E68554D03840D00795C9A147AE213.tmp' to '../../../../../../Users/Cameron/Documents/mobile/unreal_app/bird_away/Content/Maps/01testing.umap'
+[2022.11.16-01.25.13:836][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/01testing_BuiltData" FILE="../../../../../../Users/Cameron/Documents/mobile/unreal_app/bird_away/Content/Maps/01testing_BuiltData.uasset" SILENT=true
+[2022.11.16-01.25.13:861][336]LogSavePackage: Moving '../../../../../../Users/Cameron/Documents/mobile/unreal_app/bird_away/Saved/01testing_BuiltData42BD6E1949D249446EFBD19A049ADD59.tmp' to '../../../../../../Users/Cameron/Documents/mobile/unreal_app/bird_away/Content/Maps/01testing_BuiltData.uasset'
+[2022.11.16-01.25.13:992][336]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.16-01.25.13:992][336]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/01testing_BuiltData.01testing_BuiltData
+[2022.11.16-01.25.13:992][336]LogContentValidation: Display: Validating World /Game/Maps/01testing.01testing
+[2022.11.16-01.25.15:704][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
