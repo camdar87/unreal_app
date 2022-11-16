@@ -6,7 +6,7 @@ SDKVersion=android-30
 bForDistribution=False
 bMakeSeparateApks=True
 bPackageDataInsideApk=False
-bDisableVerifyOBBOnStartUp=False
+bDisableVerifyOBBOnStartUp=True
 bUseExternalFilesDir=False
 UPLHashCode=1449203795
 TemplatesHashCode=b4e35246c62dc1bc747675f956dcc87a
@@ -69,6 +69,7 @@ bAllowPatchOBBFile=False
 bAllowOverflowOBBFiles=False
 bExtractNativeLibs=true
 bEnableDomStorage=False
+bDisableVerifyOBBOnStartUp=True
 SDKPath=(Path="C:/Users/Cameron/AppData/Local/Android/Sdk")
 NDKPath=(Path="C:/Users/Cameron/AppData/Local/Android/Sdk/ndk/21.3.6528147")
 JavaPath=(Path="C:/Program Files/Java/jdk1.8.0_77")
