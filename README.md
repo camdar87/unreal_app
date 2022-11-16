@@ -28,7 +28,12 @@ Just to name a few.
 
 Even after all of that getting the game to work on mobile can be hard for example you must play around with the project setting so that a mobile can install the game and play it otherwise you might get  `[Solution!] No Google Play Store Key (No OBB found and no store key)`. Version control can be hard also as GitHub struggles with files over 50MB. But when everything is configured the build is a simple as pressing three buttons.
 
+how to bulid
+![how make mobile version](https://user-images.githubusercontent.com/55121777/202082121-986f5b0f-31f1-4eef-b62b-c06c2a003ad9.png)
 
+
+file settings.
+![image](https://user-images.githubusercontent.com/55121777/202081942-945bf779-849f-441c-b20f-d062640c357a.png)
 
 ## What are some areas for improvement?
 -	The game only has one level as it is a prototype 
@@ -38,6 +43,8 @@ Even after all of that getting the game to work on mobile can be hard for exampl
 -	Powerups 
 -	Extra features 
 -	There is an issue with the start and sometimes when you move left or right it will reset the player to the center resulting in a game over.
+
+
 ## If you were to continue with the mobile game, what are the next steps?
 
 -	Add in new levels. 
